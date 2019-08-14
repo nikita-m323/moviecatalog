@@ -1,0 +1,62 @@
+/**
+ * Theme Name: Unite Movie
+ * Template: unite
+ */
+@import url('../unite/style.css');
+
+.session_cost{
+    margin-top: 40px;
+    text-align: center;
+}
+.release_date{
+    margin-top: 10px;
+    text-align: center;
+}
+
+.image_movie{
+    text-align: center;
+}
+
+.movie-preview .entry-header{
+    text-align: center;
+}
+
+.movie-preview .entry-header .entry-title{
+    font-size: 20px;
+}
+.movie-preview .entry-content {
+    text-align: center;
+}
+
+.movie-preview .entry-content p{
+    font-size: 12px;
+    text-align: justify;
+}
+
+.movie-preview .entry-meta{
+    text-align: center;
+}
+
+.movie-preview .entry-content span{
+    padding: 6px;
+}
+
+.movie-preview .session_cost span{
+
+}
+
+.movie-preview .release_date span{
+    padding: 6px;
+}
+
+.movie-preview .session_cost{
+    margin-top: 0px;
+}
+
+.movie-preview .release_date{
+    margin-top: 5px;
+}
+
+.thumbnail {
+    margin: auto;
+}
